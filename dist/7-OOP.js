@@ -18,6 +18,7 @@ class Person_1 {
         this.nickName = name;
     }
 }
+// ? creating instance (child from parent)
 const p_1 = new Person_1("Senpai");
 p_1.greet();
 console.log(p_1.getName());

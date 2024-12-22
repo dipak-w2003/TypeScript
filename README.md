@@ -12,6 +12,7 @@
 # A) Traditional Class
 # B) Abstract Class
 # c) Access Modifiers (public, private, protected)
+# D) Static Attribute & Method
 
 
 
