@@ -32,5 +32,3 @@ console.log(numberPass,
     arrayPass);
 
 
-
-
